@@ -14,6 +14,12 @@ Built with modern web technologies including **React**, **Node.js**, **Express**
 
 ---
 
+![Alt text](Demo.gif)
+
+---
+
+
+
 ## 🚀 Technology Stack
 
 | Layer      | Technologies Used                                  |
