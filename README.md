@@ -25,7 +25,7 @@ Built with modern web technologies including **React**, **Node.js**, **Express**
 
 | Layer      | Technologies Used                                  |
 |------------|-----------------------------------------------------|
-| Frontend   | React.js, Tailwind CSS, Axios                      |
+| Frontend   | React.js, Tailwind CSS                             |
 | Backend    | Node.js, Express.js, Mongoose                      |
 | Database   | MongoDB Atlas                                      |
 | APIs       | OpenWeatherMap, Google Maps, YouTube Data API     |
